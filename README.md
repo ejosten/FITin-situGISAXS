@@ -7,6 +7,7 @@ The software run under the plot.py software https://sourceforge.net/projects/plo
 
 Please read the accompanying LICENSE file before downloading the software. By downloading the software, you are agreeing to cite the corresponding paper: E. Josten et al.  Superlattice growth and rearrangement during evaporation-induced nanoparticle self-assembly. 
  
+ 
 Copyright (C) {2017}  {A.Glavic, E.Josten}          Contact: e.josten@hzdr.de
     This program is free software: you can redistribute it and/or modify     it under the terms of the GNU General Public License as published by     the Free Software Foundation, either version 3 of the License, or any     later version.
     This program is distributed in the hope that it will be useful,     but WITHOUT ANY WARRANTY; without even the implied warranty of     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the     GNU General Public License for more details.
